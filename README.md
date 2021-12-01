@@ -1,4 +1,4 @@
 # mergeconflict
 
 
-Line No 4 Would be changed by other one
+Line No 4 is changed
