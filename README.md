@@ -1,6 +1,6 @@
 # mergeconflict
 
 
-Line no 4  needs to be changed
+Line no 4  is changed locally
 
 
