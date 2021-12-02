@@ -1,8 +1,6 @@
 # mergeconflict
 
 
-
-
-Line No 4 is changed by me
+Line no 4  needs to be changed
 
 
